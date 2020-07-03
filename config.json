@@ -1,0 +1,5 @@
+{
+    "users": ["instagram", "monitor"],
+    "delay": 5,
+    "webhook": "YOUR WEBHOOK HERE"
+}
